@@ -2,11 +2,14 @@
   "expo": {
     "sdkVersion": "27.0.0",
     "name": "IPMet",
+    "slug": "ipmet",
     "icon": "ipmet.png",
-    "version": "2.2.0",
+    "version": "3.0.0",
+    "privacy": "public",
+    "orientation": "portrait",
     "android": {
       "package": "com.tcgdev.IPMet",
-      "versionCode": 2
+      "versionCode": 3
     }
   }
 }
